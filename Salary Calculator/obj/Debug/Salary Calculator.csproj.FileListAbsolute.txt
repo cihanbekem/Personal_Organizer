@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+C:\Users\Lenovo\Desktop\Salary Calculator\bin\Debug\Salary Calculator.exe
+C:\Users\Lenovo\Desktop\Salary Calculator\bin\Debug\Salary Calculator.pdb
+C:\Users\Lenovo\Desktop\Salary Calculator\obj\Debug\Salary Calculator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Salary Calculator\obj\Debug\Salary_Calculator.Form1.resources
+C:\Users\Lenovo\Desktop\Salary Calculator\obj\Debug\Salary_Calculator.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Salary Calculator\obj\Debug\Salary Calculator.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Salary Calculator\obj\Debug\Salary Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Salary Calculator\obj\Debug\Salary Calculator.exe
+C:\Users\Lenovo\Desktop\Salary Calculator\obj\Debug\Salary Calculator.pdb

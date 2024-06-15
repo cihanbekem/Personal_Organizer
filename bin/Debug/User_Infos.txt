@@ -1,0 +1,4 @@
+Id,Name,Surname,PhoneNumber,Address,Email,Password,Authority,Salary
+2,Baturhan,Çağatay,(507) 965-4520,Eskişehir/Odunpazarı,baturhancagatay@gmail.com,11052003,admin,34877
+3,cihan,bekem,(555) 555-1111,asd,cihan@gmail.com,2345,part-time user,28170
+4,Emre,Güner,(539) 400-5251,bigdere,emregnre@gmail.com,12042002,admin,64389,6

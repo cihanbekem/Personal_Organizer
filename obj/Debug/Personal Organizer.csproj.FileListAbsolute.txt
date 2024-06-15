@@ -1,0 +1,468 @@
+C:\Users\yaren\source\repos\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\yaren\source\repos\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\yaren\source\repos\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\yaren\source\repos\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Notes.Form1.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\batur\Downloads\Personal Organizer\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Notes.Form1.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\gurkan\Desktop\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Notes.Form1.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer-v1.4- (2)\Personal Organizer-v1.4-\Personal Organizer\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\batur\Downloads\Personal Organizer-v1.6-\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\oop lab projesi\v17\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\oop lab projesi\Personel Organizer v1.9\v17\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v2.0\Personal Organizer\obj\Debug\Personal_Organizer.Cıkıs_Ekranı.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal_Organizer.Cıkıs_Ekranı.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\oop proje 30 mayıs\Personal Organizer-v2.1-\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Cıkıs_Ekranı.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Cıkıs_Ekranı.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\oop proje 1 haziran\Personal Organizer v2.3\Personal Organizer v2.2\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal_Organizer.Cıkıs_Ekranı.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Personal Organizer v2.4\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal_Organizer.Cıkıs_Ekranı.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer-v2.5-\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\batur\Downloads\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal_Organizer.Cıkıs_Ekranı.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal_Organizer.Sifreyi_Yenile.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Phone_Book.Form_Kayıt.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal_Organizer.Sifre_Unuttu.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal_Organizer.ExitScreen.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal_Organizer.ResetPassword.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Phone_Book.RegisterForm.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v2.7\Personal Organizer\obj\Debug\Personal_Organizer.ForgetPassword.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\bin\Debug\Personal Organizer.exe
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\bin\Debug\Personal Organizer.pdb
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.ExitScreen.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.ResetPassword.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Notes.Notes.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Phone_Book.RegisterForm.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.ForgetPassword.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.exe
+\\Mac\Home\Downloads\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.ExitScreen.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.ResetPassword.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Phone_Book.RegisterForm.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.ForgetPassword.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Personel Organizer v3.0\Personal Organizer v2.8\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal_Organizer.ExitScreen.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal_Organizer.ResetPassword.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Phone_Book.RegisterForm.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal_Organizer.ForgetPassword.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\batur\Downloads\Personal Organizer v3.0\Personal Organizer\obj\Debug\Personal Organizer.pdb
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\bin\Debug\Personal Organizer.exe
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\bin\Debug\Personal Organizer.pdb
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal_Organizer.ExitScreen.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal_Organizer.ResetPassword.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Notes.Notes.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Phone_Book.RegisterForm.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal_Organizer.ForgetPassword.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal Organizer.exe
+\\Mac\Home\Downloads\Personal Organizer-v3.3-\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal_Organizer.ExitScreen.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal_Organizer.ResetPassword.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Phone_Book.RegisterForm.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal_Organizer.ForgetPassword.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\PERSONEL ORGANIZER V3.4\Personal Organizerv3.4\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\yaren\Desktop\son\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\yaren\Desktop\son\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\yaren\Desktop\son\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.ExitScreen.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.ResetPassword.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Phone_Book.RegisterForm.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.ForgetPassword.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.Form1.resources
+C:\Users\yaren\Desktop\son\Personal Organizer\obj\Debug\Personal_Organizer.Resource1.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal Organizer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\bin\Debug\Personal Organizer.exe.config
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\bin\Debug\Personal Organizer.exe
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\bin\Debug\Personal Organizer.pdb
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.ExitScreen.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.Form1.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.ResetPassword.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Notes.Notes.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Phone_Book.RegisterForm.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.Login.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Information.Personal.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Phone_Book.Phone_Book.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.Register.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.MainForm.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Reminder.Reminder_Main.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.Resource1.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Salary_Calculator.Salary_Calculator.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.ForgetPassword.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.UserManagement.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal_Organizer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal Organizer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\FINAL PERSONEL ORAGNIZER\Personal Organizer -v3.6-\son\Personal Organizer\obj\Debug\Personal Organizer.csproj.CoreCompileInputs.cache
