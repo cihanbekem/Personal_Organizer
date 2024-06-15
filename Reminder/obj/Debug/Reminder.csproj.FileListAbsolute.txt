@@ -1,0 +1,10 @@
+C:\Users\gurkan\Desktop\Oop2\Reminder\bin\Debug\Reminder.exe.config
+C:\Users\gurkan\Desktop\Oop2\Reminder\bin\Debug\Reminder.exe
+C:\Users\gurkan\Desktop\Oop2\Reminder\bin\Debug\Reminder.pdb
+C:\Users\gurkan\Desktop\Oop2\Reminder\obj\Debug\Reminder.csproj.AssemblyReference.cache
+C:\Users\gurkan\Desktop\Oop2\Reminder\obj\Debug\Reminder.Form1.resources
+C:\Users\gurkan\Desktop\Oop2\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+C:\Users\gurkan\Desktop\Oop2\Reminder\obj\Debug\Reminder.csproj.GenerateResource.cache
+C:\Users\gurkan\Desktop\Oop2\Reminder\obj\Debug\Reminder.csproj.CoreCompileInputs.cache
+C:\Users\gurkan\Desktop\Oop2\Reminder\obj\Debug\Reminder.exe
+C:\Users\gurkan\Desktop\Oop2\Reminder\obj\Debug\Reminder.pdb

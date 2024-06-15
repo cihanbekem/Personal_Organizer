@@ -1,0 +1,10 @@
+C:\Users\BEKEM\Desktop\Notes\Notes\bin\Debug\Notes.exe.config
+C:\Users\BEKEM\Desktop\Notes\Notes\bin\Debug\Notes.exe
+C:\Users\BEKEM\Desktop\Notes\Notes\bin\Debug\Notes.pdb
+C:\Users\BEKEM\Desktop\Notes\Notes\obj\Debug\Notes.csproj.AssemblyReference.cache
+C:\Users\BEKEM\Desktop\Notes\Notes\obj\Debug\Notes.Form1.resources
+C:\Users\BEKEM\Desktop\Notes\Notes\obj\Debug\Notes.Properties.Resources.resources
+C:\Users\BEKEM\Desktop\Notes\Notes\obj\Debug\Notes.csproj.GenerateResource.cache
+C:\Users\BEKEM\Desktop\Notes\Notes\obj\Debug\Notes.csproj.CoreCompileInputs.cache
+C:\Users\BEKEM\Desktop\Notes\Notes\obj\Debug\Notes.exe
+C:\Users\BEKEM\Desktop\Notes\Notes\obj\Debug\Notes.pdb

@@ -1,0 +1,10 @@
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\bin\Debug\Personal Information.exe.config
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\bin\Debug\Personal Information.exe
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\bin\Debug\Personal Information.pdb
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\obj\Debug\Personal Information.csproj.AssemblyReference.cache
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\obj\Debug\Personal_Information.Form1.resources
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\obj\Debug\Personal_Information.Properties.Resources.resources
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\obj\Debug\Personal Information.csproj.GenerateResource.cache
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\obj\Debug\Personal Information.csproj.CoreCompileInputs.cache
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\obj\Debug\Personal Information.exe
+C:\Users\gurkan\Desktop\Oop2\Personal_Information\obj\Debug\Personal Information.pdb
